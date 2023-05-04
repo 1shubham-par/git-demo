@@ -3,3 +3,5 @@ Good Morning
 Good Afternoon
 Good Evening
 Another Day
+Good Morning
+Good Afternoon
